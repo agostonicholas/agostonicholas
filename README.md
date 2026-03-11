@@ -1,9 +1,9 @@
 👋 Hi, I’m Nicholas
 
     💻 Aspiring Computer Science Professional | Building projects in C++, Java, and Python
-    🎮 Passionate about video games and developing creative, functional projects (like my own game!)
+    🎮 Passionate about video games and developing creative, functional projects
     🚀 Love exploring technology innovation and pushing my skills with hands-on coding challenges
-    🎒 Currently pursuing my associate’s degree in Computer Science
+    🎒 Associate in Computer Science, pursuing my bachelors!
     🌍 Avid traveler, always looking for new inspiration and perspectives
     🔧 Strong at debugging and constantly improving my problem-solving abilities
     🛠️ Check out my projects! I enjoy starting and finishing code-driven ideas.
